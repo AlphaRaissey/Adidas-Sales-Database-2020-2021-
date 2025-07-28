@@ -1,2 +1,4 @@
 # Adidas-Sales-Database-2020-2021-
 This project is part of a 4-week Data Analysis Bootcamp with Nexo Girls. The goal was to go beyond charts and build a dashboard that tells a story with data. Using Excel alone, I analyzed two years' worth of Adidas sales data to understand the key drivers of revenue, profit, and performance across products, regions, and time.
+## 📌 Introduction
+I built an interactive Excel dashboard to break down Adidas sales data from **2020 to 2021** and uncover what’s truly driving **revenue**, **profit**, and overall **performance**. The dashboard visualizes key insights across **product categories**, **regions**, **store types**, and **time periods**. With built-in **slicers for States, Months, and Retailers**, stakeholders can instantly filter the data and drill into specific segments — without ever touching the raw spreadsheet. It’s designed for **clarity**, **speed**, and **smarter decision-making**.
