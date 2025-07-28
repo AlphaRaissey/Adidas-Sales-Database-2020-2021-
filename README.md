@@ -39,13 +39,13 @@ These steps were crucial to prepare the dataset for smooth pivoting, accurate fi
 ## Charts and Visualizations
 The dashboard uses a consistent design theme with clean layouts and shades of gray to align with Adidas' brand aesthetic. Visuals were chosen to make insights immediately clear and easy to explore.
 Key visualizations include: 
- 1. **Total Sales by Product Category**  
- 2. **Monthly Sales Trend**  
- 3. **Sales Breakdown by Sales Method**  
- 4. **Sales by Region**  
- 5. **Sales by Retailer**  
- 6. **Average Operating Margin by Product**  
- 7. **Top Cities by Total Sales**  
+## 1. **Total Sales by Product Category**  (Bar Chart)
+## 2. **Monthly Sales Trend**  (Line Chart)
+## 3. **Sales by Sales Method**  (Pie Chart)
+## 4. **Sales by Region**  (Column Chart)
+## 5. **Sales by Retailer**  (Bar Chart)
+## 6. **Average Operating Margin by Product**  (Bar Chart)
+## 7. **Top Cities by Total Sales**  (Bar Chart)
 
 ## Dashboard Overview
 
